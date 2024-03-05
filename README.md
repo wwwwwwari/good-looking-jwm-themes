@@ -1,4 +1,4 @@
-# Jwaita - Dark JWM Theme and Button Sets
+# Jwaita - Dark Adwaita- and Papirus-Inspired JWM Theme and Button Sets
 I made my own JWM theme because the existing ones look out of place when used with my Adwaita Dark + Papirus setup.
 
 ![Screenshot](https://github.com/wwwwwwari/good-looking-jwm-themes/assets/89649458/31e13b13-db55-4f89-9f16-e53948363633)
