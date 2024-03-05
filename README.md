@@ -21,5 +21,5 @@ I made my own JWM theme because the existing ones look out of place when used wi
 8. Click Apply
 
 # Attribution
-* Jwaita button sets are modified from [Adwaita Icon Theme](https://github.com/GNOME/adwaita-icon-theme)
-* Jwaita-Papirus button sets are modified from [Papirus Dark Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+* Jwaita buttons are modified from [Adwaita Icon Theme](https://github.com/GNOME/adwaita-icon-theme)
+* Jwaita-Papirus buttons are modified from [Papirus Dark Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
