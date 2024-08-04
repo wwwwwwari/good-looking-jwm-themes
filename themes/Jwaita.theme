@@ -2,7 +2,8 @@
 <!-- License: LGPL v2.1 -->
 <JWM>
     <WindowStyle>
-        <Font>Sans-10:Bold</Font>
+        <Font>-poonlap-*-bold-r-*-*-*-*-*-*-*-*-*-*</Font>
+        <!-- <Font>Sans-10:Bold</Font> -->
         <Width>1</Width>
         <Height>26</Height>
         <Corner>5</Corner>
