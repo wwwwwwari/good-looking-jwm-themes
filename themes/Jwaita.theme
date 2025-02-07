@@ -2,8 +2,7 @@
 <!-- License: LGPL v2.1 -->
 <JWM>
     <WindowStyle>
-        <Font>-poonlap-*-bold-r-*-*-*-*-*-*-*-*-*-*</Font>
-        <!-- <Font>Sans-10:Bold</Font> -->
+        <Font>Noto Sans Thai-12:bold</Font>
         <Width>1</Width>
         <Height>26</Height>
         <Corner>5</Corner>
@@ -18,7 +17,6 @@
         </Active>
     </WindowStyle>
 	<TrayStyle group="false" list="desktop">
-		<Font>Roboto Condensed-11</Font>
 		<Background>#353535</Background>
 		<Foreground>#dfdfdf</Foreground>
 		<Outline>#1b1b1b</Outline>
@@ -40,7 +38,6 @@
         </PagerStyle>
 
 	<MenuStyle>
-		<Font>Roboto Condensed-11</Font>
 		<Foreground>#eeeeee</Foreground>
 		<Background>#2f2f2f</Background>
 		<Outline>#1b1b1b</Outline>
@@ -50,7 +47,6 @@
 		</Active>
 	</MenuStyle>
 	<PopupStyle>
-		<Font>Roboto Condensed-11</Font>
 		<Foreground>#f0f0f0</Foreground>
 		<Background>#000000</Background>
 		<Outline>#000000</Outline>
