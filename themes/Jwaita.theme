@@ -2,7 +2,8 @@
 <!-- License: LGPL v2.1 -->
 <JWM>
     <WindowStyle>
-        <Font>Noto Sans Thai-12:bold</Font>
+        <!--<Font>Noto Sans Thai-12:bold</Font>-->
+	<Font>SukhumvitSet-12:Bold</Font> 
         <Width>1</Width>
         <Height>26</Height>
         <Corner>5</Corner>
